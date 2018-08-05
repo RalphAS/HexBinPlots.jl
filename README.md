@@ -23,3 +23,5 @@ Note: Plots does have a `hexbin` series type, but only for the PyPlot backend,
 and it doesn't seem as versatile as this (the extra `s` here disambiguates).
 `hexbins` requires `shape` and color gradient capabilities, so it
 does not work with all backends.
+
+Credit: based in part on Gadfly.jl code and other Plots recipes.
